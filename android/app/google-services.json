@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "521895754222",
+    "firebase_url": "https://pushnotificationsample-21177-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pushnotificationsample-21177",
+    "storage_bucket": "pushnotificationsample-21177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521895754222:android:0a99ced6603bb8fa0eb6ff",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GkB3D9QTJ7iG4ObEEc8ZpUG6ydkqlFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD8NX0o7XllEt7MMYE6htGs89nI4IsTPj8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>521895754222</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterFirebasePushNotification</string>
+	<key>PROJECT_ID</key>
+	<string>pushnotificationsample-21177</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pushnotificationsample-21177.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:521895754222:ios:3ed2901c52eb43390eb6ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://pushnotificationsample-21177-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
